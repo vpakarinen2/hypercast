@@ -18,6 +18,7 @@ HyperCast is a lightweight desktop application designed for zero-lag Android scr
 - **Mouse wheel**: scroll inside Android apps from the mirror.
 - **Copy from phone to PC**: copy text from Android to computer.
 - **Phone audio on the PC**: play device audio through the computer.
+- **File transfer**: Move files from/to Android or computer.
 
 ## Built With
 

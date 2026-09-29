@@ -13,7 +13,7 @@ HyperCast is a lightweight desktop application designed for zero-lag Android scr
 - **Screenshot**: full-resolution PNG saved via file dialog
 - **Input**: control the phone with mouse and keyboard
 
-## Built with
+## Built With
 
 | Layer | Technologies |
 |-------|----------------|
@@ -29,7 +29,7 @@ Get the latest Windows installer from **[Releases](https://github.com/vpakarinen
 
 *Note: Windows may block the installer (SmartScreen or Defender) because the app is not signed.*
 
-## Quick start
+## Quick Start
 
 1. **Phone:** Settings → About phone → tap **Build number** 7 times → enable **USB debugging** in Developer options.
 2. Connect USB, unlock the phone, tap **Allow** on the USB debugging prompt.

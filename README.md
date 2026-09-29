@@ -17,6 +17,8 @@ HyperCast is a lightweight desktop application designed for zero-lag Android scr
 
 Get the latest Windows installer from **[Releases](https://github.com/vpakarinen2/hypercast/releases)** (`HyperCast_*_x64-setup.exe`).
 
+*Note: Windows may block the installer (SmartScreen or Defender) because the app is not signed.*
+
 ## Quick start
 
 1. **Phone:** Settings → About phone → tap **Build number** 7 times → enable **USB debugging** in Developer options.

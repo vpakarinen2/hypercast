@@ -13,6 +13,16 @@ HyperCast is a lightweight desktop application designed for zero-lag Android scr
 - **Screenshot**: full-resolution PNG saved via file dialog
 - **Input**: control the phone with mouse and keyboard
 
+## Built with
+
+| Layer | Technologies |
+|-------|----------------|
+| **Shell** | [Tauri 2](https://v2.tauri.app/), [Rust](https://www.rust-lang.org/), [Tokio](https://tokio.rs/) |
+| **UI** | [Svelte 5](https://svelte.dev/), [TypeScript](https://www.typescriptlang.org/), [Vite](https://vite.dev/) |
+| **WebView** | [WebView2](https://developer.microsoft.com/microsoft-edge/webview2/) |
+| **Video** | [WebCodecs](https://developer.mozilla.org/en-US/docs/Web/API/WebCodecs_API) |
+| **Capture** | [scrcpy-server 4.1](https://github.com/Genymobile/scrcpy) |
+
 ## Download
 
 Get the latest Windows installer from **[Releases](https://github.com/vpakarinen2/hypercast/releases)** (`HyperCast_*_x64-setup.exe`).

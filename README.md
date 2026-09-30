@@ -17,10 +17,11 @@ Lightweight desktop application designed for zero-lag Android screen mirroring.
 
 ## Planned updates
 
-- **Phone audio on the PC**: play device audio through the computer.
-- **Copy from phone to PC**: copy text from Android to computer.
-- **Mouse wheel**: scroll inside Android apps from the mirror.
-- **File transfer**: Move files from/to Android or computer.
+- [ ] Phone audio on the PC
+- [ ] Copy from phone to PC
+- [ ] Mouse scroll wheel
+- [ ] Wi-Fi pairing
+- [ ] File transfer
 
 ## Built With
 

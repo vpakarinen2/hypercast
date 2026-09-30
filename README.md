@@ -41,7 +41,7 @@ Get the latest Windows installer from **[Releases](https://github.com/vpakarinen
 ## Quick Start
 
 1. **Phone:** Settings → About phone → tap **Build number** 7 times → enable **USB debugging** in Developer options.
-2. Connect USB, unlock the phone, tap **Allow** on the USB debugging prompt.
+2. Connect USB → unlock the phone → tap **Allow** on the USB debugging prompt.
 3. Install and open **HyperCast** → **Refresh** → select your device → **Connect**.
 
 ## Author

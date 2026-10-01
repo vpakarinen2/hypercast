@@ -21,6 +21,7 @@ Lightweight desktop application designed for zero-lag Android screen mirroring.
 - [ ] Copy from phone to PC
 - [ ] Mouse scroll wheel
 - [ ] Wi-Fi pairing
+- [ ] Video record
 - [ ] File transfer
 
 ## Built With

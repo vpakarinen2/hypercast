@@ -38,7 +38,7 @@ Lightweight desktop application designed for low-latency Android screen mirrorin
 
 Get the latest Windows installer from **[Releases](https://github.com/vpakarinen2/hypercast/releases)** (`HyperCast_*_x64-setup.exe`).
 
-*Note: Windows may block the installer (SmartScreen or Defender) because the app is not signed.*
+*Note: Windows may block the installer because the app is not signed. Change the install location to prevent issues.*
 
 ## Quick Start
 

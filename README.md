@@ -1,6 +1,6 @@
 # HyperCast 
 
-Lightweight desktop application designed for zero-lag Android screen mirroring.
+Lightweight desktop application designed for low-latency Android screen mirroring.
 
 ## Screenshot
 
